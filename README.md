@@ -1,5 +1,25 @@
-<h1 align="center">Hi 👋, I'm Priyanka Das</h1>
+<p align="left"> 
+ <h1><img src="https://user-images.githubusercontent.com/93486108/188273136-d39b33af-3d3b-46ca-9cb2-e7dd92b4d8c3.gif" width=100> 
+ 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=AC1877&width=435&lines=Welcome+to+my+github+profile;I+am+Priyanka+Das...">
+
+ </h1>
+</p>
+
+<p align="left"> 
+
+<img src="https://komarev.com/ghpvc/?username=priyanka7123/priyanka7123&color=blue"/> 
+
+<img src="https://wakatime.com/badge/user/db07c0b8-73d5-4aef-8d03-49be9c52c4b1.svg"/>
+
+<img align="right" src="https://user-images.githubusercontent.com/93486108/188274030-47ff144e-876f-47b3-89e2-5a272949a451.gif" width=50%>
+
+</p>
+
+<p align="left">
+
 <h3 align="center">Associate Software Engineer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka7123&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka7123" /> </p>
 
