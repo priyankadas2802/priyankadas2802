@@ -6,15 +6,7 @@
  </h1>
 </p>
 
-<p align="left"> 
 
-<img src="https://komarev.com/ghpvc/?username=priyanka7123/priyanka7123&color=blue"/> 
-
-<img src="https://wakatime.com/badge/user/db07c0b8-73d5-4aef-8d03-49be9c52c4b1.svg"/>
-
-<img align="right" src="https://user-images.githubusercontent.com/93486108/188274030-47ff144e-876f-47b3-89e2-5a272949a451.gif" width=50%>
-
-</p>
 
 <p align="left">
 
