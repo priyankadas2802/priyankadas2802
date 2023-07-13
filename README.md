@@ -10,7 +10,7 @@
 
 <p align="left">
 
-<h3 align="center">Associate Software Engineer</h3>
+<h3 align="center"> A young Associate Software Engineer from IN</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka7123&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka7123" /> </p>
