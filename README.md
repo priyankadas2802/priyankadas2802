@@ -13,11 +13,7 @@
 <h3 align="center"> A young Associate Software Engineer from IN</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka7123&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka7123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanka7123" alt="priyanka7123" /></a> </p>
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka7123&label=Profile%20views&color=0e75b6&style=flat" alt="PriyankaDas" /> </p>
 
 - 📫 How to reach me **priyankadas.7123@gmail.com**
 
